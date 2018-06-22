@@ -1,0 +1,43 @@
+baseURL = "http://www.gertontenham/"
+languageCode = "nl-nl"
+title = "Gerton ten Ham"
+MetaDataFormat = "toml"
+canonifyurls = true
+paginate = 10
+#theme = "startbootstrap-clean-blog"
+copyright = "copyright 2014-2018 Gerton ten Ham"
+
+[author]
+  name = "Gerton ten Ham"
+
+[params]
+  DateForm = "Jan 2, 2006"
+  Description = ""
+  Author = "Gerton ten Ham"
+ # email = "gerton.tenham@gmail.com" #Remove this line if you would prefer not to use an email button in the footer.
+  postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
+  showReadTime = true #set to false to exclude read time from header of post
+
+[[params.social]]
+  title = "github"
+  url = "https://github.com/gtenham"
+[[params.social]]
+  title = "facebook"
+  url = "https://www.facebook.com/gerton.tenham"
+
+[[menu.main]]
+  name = "blog"
+  url = "/"
+  weight = -200
+[[menu.main]]
+  name = "over mij"
+  url = "/over-mij/"
+  weight = -180
+#[[menu.main]]
+#  name = "contact"
+#  url = "/contact/"
+#  weight = -160
+[[menu.main]]
+  name = "archief"
+  url = "/articles/"
+  weight = -140
