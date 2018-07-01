@@ -6,6 +6,8 @@ author = "Gerton ten Ham"
 categories = ["permacultuur"]
 tags = ["permacultuur","opleiding", "utrecht"]
 type = "post"
+featuredThumbnail = ""
+featuredImage = ""
 +++
 Bijna is dan het eind van het 1e jaar van de permacultuur basis opleiding een feit. 18 lesdagen met veel theoretische basiskennis, maar ook met een praktische invulling. Deze blog post is een introductie van mijn project die ik nav deze opleiding gestart ben.
 <!--more-->

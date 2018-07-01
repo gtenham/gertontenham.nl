@@ -6,6 +6,8 @@ author = "Gerton ten Ham"
 categories = ["permacultuur"]
 tags = ["permacultuur","opleiding","utrecht"]
 type = "post"
+featuredThumbnail = ""
+featuredImage = ""
 +++
 In september is er weer een permacultuur jaartraining gestart in Utrecht aan de Daalseweg. Door omstandigheden was het voor mij
 niet mogelijk om in 2013 te starten dus het leek mij dan ook nu de tijd om aan deze jaartraining mee te doen.

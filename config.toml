@@ -1,28 +1,33 @@
-baseURL = "http://www.gertontenham/"
+baseURL = "http://www.gertontenham.nl/"
+defaultContentLanguage = "nl"
 languageCode = "nl-nl"
-title = "Gerton ten Ham"
+title = "Gerton"
 MetaDataFormat = "toml"
 canonifyurls = true
-paginate = 10
-#theme = "startbootstrap-clean-blog"
-copyright = "copyright 2014-2018 Gerton ten Ham"
+paginate = 5
+theme = "kuhn"
+copyright = "copyright 2018 Gerton ten Ham"
+enableRobotsTXT = true
 
 [author]
   name = "Gerton ten Ham"
 
 [params]
   DateForm = "Jan 2, 2006"
-  Description = ""
+  Description = "Just some thoughts, nothing else..."
   Author = "Gerton ten Ham"
- # email = "gerton.tenham@gmail.com" #Remove this line if you would prefer not to use an email button in the footer.
-  postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
-  showReadTime = true #set to false to exclude read time from header of post
+  postSummariesFrontPage = 5 #Number of post summaries to show on front page, comment out to allow default(4)
+  customCssPath = "css/custom.css"
+  logo = "/img/logo.png"
 
 [[params.social]]
   title = "github"
   url = "https://github.com/gtenham"
 [[params.social]]
   title = "facebook"
+  url = "https://www.facebook.com/gerton.tenham"
+[[params.social]]
+  title = "linkedin"
   url = "https://www.facebook.com/gerton.tenham"
 
 [[menu.main]]

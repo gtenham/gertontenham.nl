@@ -6,6 +6,8 @@ author = "Gerton ten Ham"
 categories = ["permacultuur"]
 tags = ["permacultuur","opleiding","wormenbak"]
 type = "post"
+featuredThumbnail = ""
+featuredImage = ""
 +++
 Tijdens de permacultuur opleiding hebben we het gehad over aarde en hoe deze te kunnen verbeteren. Een van de onderwerpen was het maken van mest met behulp van (mest)wormen in een wormenbak.
 Na deze les ben ik gelijk begonnen met het maken van mijn eigen wormenbak met materialen die ik nog had liggen in de garage.

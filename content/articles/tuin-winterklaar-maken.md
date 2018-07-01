@@ -6,6 +6,8 @@ author = "Gerton ten Ham"
 categories = ["permacultuur"]
 tags = ["permacultuur","winterklaar"]
 type = "post"
+featuredThumbnail = "//farm9.staticflickr.com/8581/15719201027_0ace5b8e80_z.jpg"
+featuredImage = ""
 +++
 Met een kop koffie en op de achtergrond een buurtbewoner die bezig is met zijn bladblazer is het tijd om te beschrijven wat ik de afgelopen tijd heb gedaan op permacultuur niveau.
 <!--more-->

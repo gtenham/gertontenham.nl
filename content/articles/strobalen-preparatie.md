@@ -6,6 +6,8 @@ author = "Gerton ten Ham"
 categories = ["permacultuur"]
 tags = ["permacultuur","opleiding", "utrecht"]
 type = "post"
+featuredThumbnail = ""
+featuredImage = ""
 +++
 Vorig jaar kwam ik tijdens mijn vakantie het boek over "Tuinieren op Strobalen" tegen van Joel Karsten. Het principe leek me leuk om te proberen als tegenhanger van de vierkante meter tuin. Lees hier over mijn ervaringen met deze manier van tuinieren.
 <!--more-->
