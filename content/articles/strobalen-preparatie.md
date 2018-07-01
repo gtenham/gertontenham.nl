@@ -122,6 +122,7 @@ In onderstaande grafiek worden behalve de temperatuur van de strobalen ook de ge
     <figcaption class="figure-caption text-center"Strobaal temperatuur meting gedurende 15 dagen</figcaption>
 </figure>
 
+
 > Na dag 15 heb ik geen temperatuur meer vastgelegd vanwege het breken van de (glazen) thermometer. Na aanschaf van een nieuwe digitale thermometer heb ik 
 > af en toe nog een meting gedaan (ook van de andere strobalen) waarbij er piek temperaturen werden waargenomen van 30+ graden Celcius.
 

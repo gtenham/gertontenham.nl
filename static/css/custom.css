@@ -1,0 +1,9 @@
+.custom-logo-link {
+    display: block;
+    padding: 0;
+}
+.custom-logo-link img {
+    display: block;
+    height: auto;
+    width: auto;
+}

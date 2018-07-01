@@ -7,5 +7,3 @@ type = "contact"
 +++
 
 ## contact
-
-i'm speechless

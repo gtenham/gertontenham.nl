@@ -6,6 +6,8 @@ author = "Gerton ten Ham"
 categories = ["permacultuur"]
 tags = ["permacultuur","lente update"]
 type = "post"
+featuredThumbnail = "//farm9.staticflickr.com/8753/17128066189_fcb65078f6_z.jpg"
+featuredImage = "//farm9.staticflickr.com/8753/17128066189_fcb65078f6_b.jpg"
 +++
 Mijn laatste blog post ging over het winterklaar maken van onze tuin. Nu zijn er verschillende maanden verstreken sinds 
 die tijd en eigenlijk was het wel eens tijd voor een update.
