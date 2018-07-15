@@ -12,3 +12,5 @@ before_install:
 script:
   - hugo
   
+after_success:
+  - firebase deploy --token $FIREBASE_TOKEN
