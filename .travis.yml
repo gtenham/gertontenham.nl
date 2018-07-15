@@ -1,0 +1,14 @@
+language: go
+
+go:
+  - master # This uses automatically the latest version of go
+
+install:
+  - go get github.com/spf13/hugo # This provides the latest version of Hugo to Travis CI
+  
+before_install:
+  - npm install -g firebase-tools
+ 
+script:
+  - hugo
+  

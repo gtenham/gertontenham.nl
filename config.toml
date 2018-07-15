@@ -1,4 +1,4 @@
-baseURL = "http://www.gertontenham.nl/"
+baseURL = "/"
 defaultContentLanguage = "nl"
 languageCode = "nl-nl"
 title = "Gerton"
@@ -28,7 +28,7 @@ enableRobotsTXT = true
   url = "https://www.facebook.com/gerton.tenham"
 [[params.social]]
   title = "linkedin"
-  url = "https://www.facebook.com/gerton.tenham"
+  url = "https://www.linkedin.com/in/gertontenham/"
 
 [[menu.main]]
   name = "blog"
