@@ -1,0 +1,3 @@
+[submodule "themes/kuhn"]
+	path = themes/kuhn
+	url = https://github.com/gtenham/KuhnForHugo.git
