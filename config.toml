@@ -1,9 +1,9 @@
-baseURL = "/"
+baseURL = "https://www.gertontenham.nl/"
 defaultContentLanguage = "nl"
 languageCode = "nl-nl"
 title = "Gerton"
 MetaDataFormat = "toml"
-canonifyurls = true
+canonifyURLs = true
 paginate = 5
 theme = "kuhn"
 copyright = "copyright 2018 Gerton ten Ham"
